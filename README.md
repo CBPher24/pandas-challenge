@@ -1,6 +1,8 @@
 # pandas-challenge
 Gt Homework Pandas assignment
 
+Pandas homework challenge where we took information on given schools where can compare their reading and math scores with school size and budget.
+
 
 Pandas. (n.d.). "Pandas.pivot_table". https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html
 
