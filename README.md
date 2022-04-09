@@ -3,6 +3,11 @@ Gt Homework Pandas assignment
 
 Pandas homework challenge where we took information on given schools where can compare their reading and math scores with school size and budget.
 
+Data Observation
+  Two observable trends that I noticed affected the overall success of the students was the school size and type. When we compile the data to see the top five overall passing schools, I noticed that all five of them are charter schools. The other trend was observed when sorting out the schools by their size. The smaller the school the higher the students' overall success was. From these two trends, I can conclude that money alone does not effect the success of a school. The more focus that is on the students whether it is specialized education or just smaller classrooms has a greater impact on a student's success.
+
+
+Sources Used to Lookup Proper Syntax
 
 Pandas. (n.d.). "Pandas.pivot_table". https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html
 
